@@ -1,0 +1,81 @@
+ClassCode,ClassLabel,ClassDescription,ConceptNet,Hierarchy,ClassWord,Hypernym1,Hypernym2
+1,transport,"""territorial entity or entities served by this transport hub (airport, train station, etc.)""",place served by transport hub,location,"""place served by transport hub""",location,location
+2,mountain,"""geographic area containing numerous geologically related mountains""",mountain range,group,"""mountain range""",peak,location
+3,religion,"""set of beliefs, practices and traditions for a group or community""",religion,belief,"""religion""",person,belief
+4,participant,"""Like 'Participant' (P710) but for teams.""",participating team,person,"""participating team""",person,location
+5,territorial,"""(list of) direct subdivisions of an administrative territorial entity""",contains administrative territorial entity,group,"""contains administrative territorial entity""",location,location
+6,government,"""chief officer of the executive branch of a government""",head of government,director,"""head of government""",person,location
+7,citizenship,"""the object is a country that recognizes the subject as its citizen""",country of citizenship,situation,"""country of citizenship""",person,location
+8,original,"""network(s) or service(s) that originally broadcasted a radio or television program""",original network,system,"""original network""",communication,system
+9,heritage,"""heritage designation of a cultural or natural site""",heritage designation,act,"""heritage designation""",location,location
+10,performer,"""actor, musician, band or other performer associated with this role or musical work""",performer,person,"""performer""",person,music
+11,participant,"""event in which a person or organization was/is a participant""",participant of,situation,"""participant of""",person,situation
+12,position,"""subject currently or formerly holds the object position or public office""",position held,act,"""position held""",person,position
+13,part,"""part of this subject""",has part,cognition,"""has part""",act,act
+14,formation,"""location where a group or organization was formed""",location of formation,location,"""location of formation""",group,location
+15,terrain,"""located on the specified (geo)physical feature""",located on terrain feature,location,"""located on terrain feature""",location,location
+16,architect,"""person trained to plan and design buildings, and oversee their construction""",architect,person,"""architect""",person,artifact
+17,origin,"""country of manufacture, production, or growth where an article or product comes from""",country of origin,location,"""country of origin""",location,location
+18,publisher,"""organization or person responsible for publishing books, periodicals, printed music, podcasts, games or software""",publisher,group,"""publisher""",person,artifact
+19,director,"""person who leads a particular area of a company or organization""",director,person,"""director""",person,organization
+20,father,"""male parent""",father,person,"""father""",person,person
+21,developer,"""organisation or person that developed the item""",developer,person,"""developer""",person,artifact
+22,military,"""subdivision of the national armed forces of a sovereign nation or state""",military branch,organization,"""military branch""",organization,organization
+23,watercourse,"""the body of water to which the watercourse drains""",mouth of the watercourse,group,"""mouth of the watercourse""",river,group
+24,nomination,"""award nomination received by a person, organisation or creative work""",nominated for,act,"""nominated for""",grant,person
+25,movement,"""literary, artistic, scientific or philosophical movement or scene associated with this person or work""",movement,act,"""movement""",person,act
+26,candidate,"""person(s) elected after the election""",successful candidate,person,"""successful candidate""",person,act
+27,follow,"""immediately following item in a series of which the subject is a part if the subject has been replaced""",followed by,motion,"""followed by""",item,item
+28,manufacturer,"""manufacturer or producer of this product""",manufacturer,group,"""manufacturer""",group,artifact
+29,instance,"""relation of type constraints""",instance of,act,"""instance of""",item,item
+30,after,"""artist whose work strongly inspired/ was copied in this item""",after a work by,person,"""after a work by""",work,work
+31,member,"""the political party of which this politician is or has been a member or otherwise affiliated""",member of political party,person,"""member of political party""",person,organization
+32,license,"""place that a radio/TV station is licensed/required to broadcast to""",licensed to broadcast to,authorization,"""licensed to broadcast to""",act,act
+33,headquarter,"""city, where an organization's headquarters is or has been situated. Use P276 qualifier for specific building""",headquarters location,location,"""headquarters location""",location,location
+34,sibling,"""one of two or more individuals having at least one parent in common""",sibling,person,"""sibling""",person,person
+35,instrument,"""musical instrument that a person plays or teaches or used in a music occupation""",instrument,act,"""instrument""",person,instrument
+36,country,"""distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics""",country,location,"""country""",location,location
+37,occupation,"""label applied to a person based on an activity they participate in""",occupation,act,"""occupation""",person,act
+38,residence,"""self-contained unit of accommodation (house, apartment, mobile home, houseboat or other structure) used as a home""",residence,artifact,"""residence""",person,lcoation
+39,work,"""location where persons or organisations were actively participating in employment, business or other work""",work location,location,"""work location""",person,location
+40,subsidiary,"""company that is completely or partly owned and partly or wholly controlled by another company""",subsidiary,organization,"""subsidiary""",organization,organization
+41,participant,"""person, group of people or organization (object) that actively takes/took part in an event or process (subject)""",participant of,situation,"""participant""",person,situation
+42,operator,"""person, profession, or organization that operates the equipment, facility, or service""",operator,person,"""operator""",person,artifact
+43,characters,"""characters which appear in this item (like plays, operas, operettas, books, comics, films, TV series, video games)""",characters,act,"""characters""",act,item
+44,occupant,"""person or organization occupying property""",occupant,act,"""occupant""",person,act
+45,genre,"""category of creative works based on stylistic, thematic or technical criteria""",genre,act,"""genre""",work,work
+46,system,"""software that manages computer hardware resources""",operating system ,software,"""operating system""",software,computer
+47,own,"""owner of the subject""",owned by,person,"""owned by""",person,item
+48,platform,"""platform for which a work was developed or released, or the specific platform version of a software product""",platform,artifact,"""platform""",work,artifact
+49,tributary,"""stream or river that flows into a main stem river or lake""",tributary,stream,"""tributary""",stream,water
+50,winner,"""one who wins""",winner,person,"""winner""",person,act
+51,same,"""this item is said to be the same as that item, but it's uncertain or disputed""",said to be the same as,same,"""said to be the same as""",item,item
+52,composer,"""musician who is an author of music in any form; person who creates music, either by musical notation or oral tradition""",composer,person,"""composer""",person,act
+53,league,"""league in which team or player plays or has played in""",league,group,"""league""",person,group
+54,record,"""brand and trademark associated with the marketing of music recordings and music videos""",record label,business,"""record label""",item,possession
+55,distributor,"""business organization that manages the logistics of delivering manufacturers' products to retail outlets and consumers""",distributor,group,"""distributor""",group,item
+56,screenwriter,"""writer who writes for TV, films, radio, comics or games""",screenwriter,person,"""screenwriter""",person,artifact
+57,season,"""property that shows the competition of which the item is a season""",sports season of league or competition,time,"""sports season of league or competition""",act,time
+58,taxon,"""level in a taxonomic hierarchy""",taxon rank,group,"""taxon rank""",group,organization
+59,location,"""location of the object, structure or event""",location,location,"""location""",object,location
+60,field,"""particular area of activity in industry and science""",field of work,group,"""field of work""",act,group
+61,language,"""language associated with this creative work (such as books, shows, songs, or websites) or a name (for persons use ""native language"" (P103) and ""languages spoken, written or signed"" (P1412))""",language of work or name,cognition,"""language of work or name""",object,language
+62,jurisdiction,"""the item (institution, law, public office, public register...) or statement belongs to or has power over or applies to the value (a territorial jurisdiction: a country, state, municipality, ...)""",applies to jurisdiction,location,"""applies to jurisdiction""",person,item
+63,notable,"""notable scientific, artistic or literary work, or other work of significance among subject's works""",notable work,act,"""notable work""",artifact,artifact
+64,administrative,"""the item is located on the territory of the following administrative entity""",located in the administrative territorial entity,location,"""located in the administrative territorial entity""",item,location
+65,cross,"""obstacle (body of water, road, railway...) which this bridge crosses over or this tunnel goes under""",crosses,motion,"""crosses""",stream,artifact
+66,original,"""language in which a film or a performance work was originally created. Deprecated for written works and songs""",original language of film or TV show,cognition,"""original language of film or TV show""",artifact,language
+67,competition,"""classification of participants in a competition used to qualify entries""",competition class,group,"""competition class""",person,group
+68,part,"""object of which the subject is a part (if this subject is already part of object A which is a part of object B, then please only make the subject part of object A)""",part of ,cognition,"""part of""",object,object
+69,sport,"""forms of competitive physical activity or games which, through casual or organized participation, maintain or improve physical ability and skills while providing enjoyment to participants, and in some cases, entertainment for spectators""",sport,act,"""sport""",person,act
+70,constellation,"""the area of the celestial sphere of which the subject is a part (from a scientific standpoint, not an astrological one)""",constellation,object,"""constellation""",object,object
+71,position,"""position or specialism of a player on a team""",position played on team / speciality,act,"""position played on team / speciality""",act,organization
+72,water,"""items that are located in or next to body of water""",located in or next to body of water,location,"""located in or next to body of water""",water,place
+73,voice,"""group of voices with similar vocal ranges""",voice type,group,"""voice type""",voice,voice
+74,follow,"""immediately prior item in a series of which the subject is a part""",follows,motion,"""follows""",item,item
+75,spouse,"""partner in a marriage, civil union, domestic partnership or common-law marriage""",spouse,person,"""spouse""",person,person
+76,military,"""element of hierarchy in armed forces""",military rank,rank,"""military rank""",person,hierarchy
+77,mother,"""female parent""",mother,person,"""mother""",person,person
+78,member,"""organization, club or musical group to which the subject belongs""",member of,person,"""member of""",person,organization
+79,child,"""human between the stages of birth and puberty""",child,person,"""child""",person,person
+80,subject,"""primary topic of a work""",main subject,thing,"""main subject""",thing,thing
