@@ -1,0 +1,53 @@
+ClassCode,ClassLabel,ClassDescription,ConceptNet,Hierarchy,ClassWord,Hypernym1,Hypernym2
+1,neighborhood,"""geographically localised community within a larger city, town or suburb""",neighborhood_of,location,"""/location/neighborhood/neighborhood_of""",location,location
+2,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/fr_region/capital""",France,location
+3,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/cn_province/capital""",China,location
+4,administrative,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",administrative_capital,location,"""/location/in_state/administrative_capital""",state,location
+5,state,"""administrative division in several countries""",states_provinces_within,location,"""/base/locations/countries/states_provinces_within""",state,location
+6,founder,"""person who creates an institution intended to perpetuate itself after the founder's association ends""",founders,person,"""/business/company/founders""",person,organization
+7,language,"""language(s) that a person or a people speaks, writes or signs, including the native language(s)""",languages_spoken,linguistics,"""/location/country/languages_spoken""",person,linguistics
+8,birthplace,"""place where a person is born""",place_of_birth,location,"""/people/person/place_of_birth""",person,location
+9,death,"""place where a person died""",place_of_death,location,"""/people/deceased_person/place_of_death""",person,location
+10,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/it_region/capital""",Italy,location
+11,member,"""individual or organization with membership in a group; constitutive components of a corporate body""",members,member,"""/people/family/members""",person,organization
+12,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/us_state/capital""",US,location
+13,seat,"""administrative center or seat of government for a county or civil parish""",county_seat,location,"""/location/us_county/county_seat""",US,location
+14,profession,"""people who have occupation requiring specialized training""",people_with_this_profession,person,"""/people/profession/people_with_this_profession""",person,act
+15,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/br_state/capital""",Brazil,location
+16,legislative,"""city from where the legislations are performed""",legislative_capital,location,"""/location/in_state/legislative_capital""",act,location
+17,location,"""location of the object, structure or event""",location,location,"""/sports/sports_team/location""",organization,location
+18,religion,"""religion of a person, organization or religious building, or associated with this subject""",religion,cognition,"""/people/person/religion""",person,congition
+19,judicial,"""city from where the judiciaries are performed""",judicial_capital,location,"""/location/in_state/judicial_capital""",government,location
+20,advise,"""to give a group a recommendation about what should be done""",companies_advised,business,"""/business/company_advisor/companies_advised""",person,group
+21,country,"""distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics""",country,location,"""/people/family/country""",person,location
+22,location,"""location of the object, structure or event""",locations,location,"""/time/event/locations""",phenomenon,location
+23,found,"""location of the organization""",place_founded,location,"""/business/company/place_founded""",business,location
+24,country,"""distinct region in geography; a broad term that can include political divisions or regions associated with distinct political characteristics""",country,location,"""/location/administrative_division/country""",location,location
+25,include,"""to take in or comprise as a part of a whole or group""",included_in_group,add,"""/people/ethnicity/included_in_group""",person,set
+26,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/mx_state/capital""",Mexico,location
+27,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/province/capital""",state,location
+28,nationality,"""a legal identification of a person in international law, establishing the person as a subject, a national, of a sovereign state""",nationality,group,"""/people/person/nationality""",person,group
+29,company,"""legal entity representing an association of people, whether natural, legal or a mixture of both, with a specific objective""",company,group,"""/business/person/company""",person,group
+30,shopping,"""have small complex of shops""",shopping_centers_owned,own,"""/business/shopping_center_owner/shopping_centers_owned""",location,own
+31,advisor,"""person with more and deeper knowledge in a specific area""",advisors,person,"""/business/company/advisors""",business,person
+32,owner,"""one who owns something""",owner,person,"""/business/shopping_center/owner""",person,location
+33,ethnicity,"""the fact or state of belonging to a social group that has a common national or cultural tradition""",ethnicity,quality,"""/people/person/ethnicity""",person,quality
+34,burial,"""location of grave, resting place, place of ash-scattering, etc. (e.g., town/city or cemetery) for a person or animal. There may be several places: e.g., re-burials, parts of body buried separately""",place_of_burial,location,"""/people/deceased_person/place_of_burial""",person,location
+35,distribution,"""geographical area in which a species can be found""",geographic_distribution,place,"""/people/ethnicity/geographic_distribution""",person,place
+36,live,"""community of any size, in which people live""",place_lived,location,"""/people/person/place_lived""",person,location
+37,shareholder,"""individual or organization that owns part of a corporation through shares of its stock""",major_shareholders,investor,"""/business/company/major_shareholders""",business,investor
+38,location,"""location of the object, structure or event""",location,location,"""/broadcast/producer/location""",producer,location
+39,location,"""location of the object, structure or event""",location,location,"""/broadcast/content/location""",person,location
+40,company,"""company that owns enough voting stock in another firm to control management and operations""",parent_company,group,"""/business/business_location/parent_company""",business,location
+41,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/jp_prefecture/capital""",Japan,location
+42,location,"""location of the object, structure or event""",featured_film_locations,location,"""/film/film/featured_film_locations""",artifact,location
+43,inter,"""ritual act of placing a dead person into the ground""",interred_here,interment,"""/people/place_of_interment/interred_here""",person,location
+44,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/de_state/capital""",Germany,location
+45,profession,"""occupation requiring specialized training""",profession,occupation,"""/people/person/profession""",person,occupation
+46,location,"""location of the object, structure or event""",locations,location,"""/business/company/locations""",business,location
+47,capital,"""primary governing city of a top-level (country) or first-level subdivision (country, state, province, etc) political entity""",capital,location,"""/location/country/capital""",location,location
+48,contain,"""to have within""",contains,be,"""/location/location/contains""",location,location
+49,division,"""generic names for geographical areas into which a particular, independent sovereign state (country) is divided""",administrative_divisions,operation,"""/location/country/administrative_divisions""",location,location
+50,children,"""human between the stages of birth and puberty""",children,person,"""/people/person/children""",person,person
+51,film,"""features in films""",featured_in_films,artifact,"""/film/film_location/featured_in_films""",artifact,location
+52,location,"""location of the object, structure or event""",location,location,"""/film/film_festival/location""",time,location
