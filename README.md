@@ -1,8 +1,4 @@
 # ZS-SKA
-To reproduce the experiment results,
-Please download the following files and put them to code folder from https://nlp.stanford.edu/projects/glove/:
-glove.6B.50d.word2vec.txt, glove.6B.300d.word2vec, glove.6B.50d.txt, glove.6B.50d.txt
-
 Before running the experiments, please make sure to put all data files directly in our data.zip folder (no sub-folders) in the folder name 'data'.
 To run on wiki-zsl dataset, please run wiki_train.py
 We follow all the parameter settings the same as in the parameter setting section in the paper appendix. If you are interested in changing the values of parameters, please change them directly in wiki_train.py
